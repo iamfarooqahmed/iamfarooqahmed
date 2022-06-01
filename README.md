@@ -8,7 +8,7 @@ I've completed my Computer Science Engineering but wanted to pursue Career in Da
 
 *   🌍  I'm based in India
 *   ✉️  You can contact me at [farooqahmed786786786@gmail.com](mailto:farooqahmed786786786@gmail.com)
-*   🧠  I'm learning A language R
+*   🧠  I'm learning A language Python
 *   🤝  I'm open to collaborating on Data Analytic Related Projects
 *   ⚡  I'm Artist too 
   
